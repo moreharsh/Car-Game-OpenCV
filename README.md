@@ -6,3 +6,8 @@ Python is import programming language, it is very easy to implement the code in 
 With the help of OpenCV head rotation is calculated, if user is looking left side car will also move towards its left. Same goes for right side. If user wants to accelerate user should look upwards and to apply brakes user should look downwards.
 
 The instructions page displays all the necessary instructions useful to play the game. Three buttons are also displayed to play, show instructions and quit the game.
+
+<img src="banner/banner0.PNG" alt="Start Window"/>
+<img src="banner/banner1.PNG" alt="Game Window"/>
+<img src="banner/banner2.PNG" alt="Pause Window"/>
+<img src="banner/banner3.PNG" alt="INstructions Window"/>
